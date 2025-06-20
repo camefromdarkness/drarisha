@@ -7,6 +7,11 @@ body {
 
 }
 
+
+span {
+    color: crimson;
+}
+
 .firstview {
     display: flex;
     text-align: center;
@@ -22,7 +27,7 @@ body {
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    background-image: url('gifs/11111.gif');
+    background-image: url('gifs/85976a36793b01e11c05b8fa3f0a7e71.gif');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
